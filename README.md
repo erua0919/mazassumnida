@@ -41,7 +41,7 @@ python manage.py runserver # 서버 실행
 
 ```html
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{handle})
+erua0919](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{handle})
 ```
 
 ### Screenshots
@@ -69,11 +69,10 @@ python manage.py runserver # 서버 실행
 ## Mazassumnida v.2.0
 
 ### Usage
-
-```html
+html
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
-```
+erua0919](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
+
 
 ### Screenshots
 
