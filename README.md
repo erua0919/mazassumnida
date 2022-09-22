@@ -3,16 +3,16 @@
 Github 프로필에서 boj 프로필을 이쁘게 보여주는 프로젝트
 
 [![Solved.ac
-erua0919](http://mazassumnida.wtf/api/mini/generate_badge?boj=koosaga)](https://github.com/mazassumnida/mazassumnida)
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=koosaga)](https://github.com/mazassumnida/mazassumnida)
 
 [![Solved.ac
-erua0919](http://mazassumnida.wtf/api/v2/generate_badge?boj=Malkoring)](https://solved.ac/malkoring)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=Malkoring)](https://solved.ac/malkoring)
 
 [![Solved.ac
-erua0919](http://mazassumnida.wtf/api/generate_badge?boj=ccoco&c=c)](https://solved.ac/ccoco)
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=ccoco&c=c)](https://solved.ac/ccoco)
 
 [![Solved.ac
-erua0919](http://mazassumnida.wtf/api/v2/generate_badge?boj=strawJI)](https://solved.ac/strawji)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=strawJI)](https://solved.ac/strawji)
 
 
 만약 로드된 후 애니메이션을 다시 보고싶으시면 `ctrl + shift + R` 을 눌러서 강력 새로고침을 하시면 다시 보실 수 있습니다!
@@ -41,7 +41,7 @@ python manage.py runserver # 서버 실행
 
 ```html
 [![Solved.ac
-erua0919](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{handle})
+프로필](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{handle})
 ```
 
 ### Screenshots
@@ -69,10 +69,11 @@ erua0919](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solv
 ## Mazassumnida v.2.0
 
 ### Usage
+```
 html
 [![Solved.ac
-erua0919](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
-
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
+```
 
 ### Screenshots
 
